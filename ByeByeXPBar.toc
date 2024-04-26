@@ -1,0 +1,7 @@
+## Interface: 100206
+## Title: Bye Bye XPBar
+## Notes: Removes the XP Bar, since you can't move it.
+## Author: Marris
+## Version: @project-version@
+
+ByeByeXPBar.lua
