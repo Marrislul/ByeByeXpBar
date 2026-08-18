@@ -1,4 +1,4 @@
-## Interface: 120007
+## Interface: 120100
 ## Title: Bye Bye XPBar
 ## Notes: Removes the XP Bar, since you can't move it.
 ## Author: Marris
