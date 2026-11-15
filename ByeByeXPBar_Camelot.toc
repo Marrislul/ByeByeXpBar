@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Bye Bye XPBar
+## Notes: Removes the XP bar. The reputation bar stays.
+## Author: Marris
+## Version: @project-version@
+
+ByeByeXPBar-forever.lua
