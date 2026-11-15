@@ -3,5 +3,6 @@
 ## Notes: Removes the XP Bar, since you can't move it.
 ## Author: Marris
 ## Version: @project-version@
+## IconTexture: Interface\AddOns\ByeByeXPBar\Media\icon
 
 ByeByeXPBar.lua

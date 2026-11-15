@@ -3,5 +3,6 @@
 ## Notes: Removes the XP bar. The reputation bar stays.
 ## Author: Marris
 ## Version: @project-version@
+## IconTexture: Interface\AddOns\ByeByeXPBar\Media\icon
 
 ByeByeXPBar-forever.lua

@@ -1,2 +1,3 @@
 1.1.0:
 - added WoW Forever: hides only the XP bar, the reputation bar stays
+- added an icon for the addon list
